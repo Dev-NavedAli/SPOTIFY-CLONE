@@ -4,4 +4,4 @@
 
 # Technology used - HTML , CSS , Mediaqueries .
 
-# shradha khapra.
+# Teacher -  shradha khapra.
